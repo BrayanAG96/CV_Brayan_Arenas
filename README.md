@@ -1,29 +1,29 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+**Profesión:** _BACK OFFICE MINTIC SOPORTE NIVEL 1 EN REDES_
 
 ## 📞 Contacto
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [stivenarenasgomez@outlook.com](mailto:stivenarenasgomez@outlook.com)
+- **LinkedIn:** [linkedin.com/in/brayanag96](https://linkedin.com/in/brayanag96)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **NTT DATA** _(Diciembre 2024 - Actualidad)_
+- Back Office de soporte NIVEL 1 MINTIC: recepción de incidentes y novedades presentadas en los Centros Digitales de MINTIC, trabajados en conjunto con personal en campo con el fin de un diagnóstico/causal de falla que origina la falla del servicio de Internet en el Centro Digital (CD) o zona. 
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **OSC TOP SOLUTIONS GROUP** _(Febrero 2024 - Noviembre 2024)_
+- Front Office y Back Office de soporte NIVEL 1 MINTIC: recepción de trabajos de mantenimientos preventivos integrales realizados en los Centros Digitales de MINTIC, evaluación remota del Centro Digital en cuanto a conexión, funcionamiento y servicio adecuado del Centro Digital garantizando que cumpliese con todos los ítems de servicio de Internet requeridos. Validación y diagnósticos de Centros Digitales que no cumplan con el perfil de velocidad contratada, diagnosticar, resolver, y de ser necesario, escalar a campo con el fin de dar con la falla física que ocasionaba degradación de velocidad en el Centro Digital. 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SERVICIO NACIONAL DE APRENDIZAJE (SENA)** _(2023 - 2024)_
+- Técnico en Sistemas
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Creatividad**
+- **Líderazgo**
+- **Observador**
 
----
+<!-- ---
 
 ## 🎨 Formatos y Fuentes Disponibles
 
@@ -70,3 +70,4 @@
 
 Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
+-->
